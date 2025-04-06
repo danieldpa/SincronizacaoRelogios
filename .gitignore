@@ -1,0 +1,23 @@
+# Pastas do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de build
+bin/
+obj/
+
+# Cache e arquivos temporários
+*.db
+*.db-shm
+*.db-wal
+*.dtbcache.v2
+*.vscode
+*.vsidx
+*.futdcache.v2
+*.backup.json
+
+# Arquivos gerados automaticamente
+*.deps.json
